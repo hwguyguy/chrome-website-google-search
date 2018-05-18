@@ -1,0 +1,5 @@
+/* Hide "people also search for" */
+/* https://productforums.google.com/forum/#!topic/websearch/nBBYVJ-sZZg */
+.s + div, .exp-outline {
+	display: none;
+}
